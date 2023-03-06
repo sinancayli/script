@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Source and destination file paths
-source_file = '/Users/scayli0/Desktop/source_sounding.xlsx'
-destination_file = '/Users/scayli0/Desktop/destination_sounding.xlsx'
+source_file = '/Path/to/file'
+destination_file = '/Path/to/file'
 
 # Float format
 float_digit = '%.3f'
