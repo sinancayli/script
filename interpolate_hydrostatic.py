@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-source_file = '/Users/scayli0/Desktop/ERNASU_HYDROSTATIC_899.xlsx'
-destination_file = '/Users/scayli0/Desktop/ERNASU_HYDROSTATIC_899_INTERPOLATED.xlsx'
+source_file = '/path/to/file'
+destination_file = '/path/to/file'
 
 float_digit = '%.4f'
 
